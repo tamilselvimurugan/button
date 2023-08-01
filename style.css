@@ -1,0 +1,80 @@
+
+.pri-btn{
+	color:white;
+	background-color:blue;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	cursor:default;	
+}
+.pri-btn1{
+	color:white;
+	background-color:gray;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
+}
+.pri-btn2{
+	color:white;
+	background-color:green;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
+}
+.pri-btn3{
+	color:white;
+	background-color:orange;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
+}
+.pri-btn4{
+	color:black;
+	background-color:yellow;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
+}
+.pri-btn5{
+	color:black;
+	background-color:blue;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	
+}
+.pri-btn6{
+	color:black;
+	background-color:white;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
+}
+.pri-btn7{
+	color:white;
+	background-color:black;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
+}
+.link{
+	border:none;
+	cursor:pointer;
+	text-decoration:underline;
+	background-color:transparent;
+	color:blue;
+}
